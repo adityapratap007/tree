@@ -8,7 +8,6 @@ package treeDSA;/*   Created by IntelliJ IDEA.
 import java.util.Scanner;
 
 public class Tree {
-
     public Node createTree() {
         Scanner sc = new Scanner(System.in);
 
